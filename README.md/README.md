@@ -10,6 +10,4 @@
 - mv(MoVe)
 - rm(ReMove)
 - cat (CATnate)
-	- >
-	- >>
--vi
+- vi

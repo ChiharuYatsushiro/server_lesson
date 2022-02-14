@@ -1,0 +1,300 @@
+  207  cd root
+  208  cd /root
+  209  cd ls
+  210  ls
+  211  mv linux_practice1 server_lesson/linux_practice1 
+  212  ls
+  213  cd server_lesson
+  214  ls
+  215  cd linux_practice1
+  216  ls
+  217  cd /server_lesson
+  218  cd /rrot
+  219  cd /root
+  220  cd server_lesson
+  221  ls
+  222  mkdir README.md
+  223  ls
+  224  git status
+  225  git commit -m '練習揉問題1の4まで'
+  226  git log
+  227  git add .
+  228  git commit -m '練習 問題1の4まで'
+  229  git log
+  230  git commit -m 'Up to No. 4 of the exercise'
+  231  log
+  232  git log
+  233  git reset --soft HEAD^
+  234  �git log
+  235  git commit -m 'Up to No. 4 of the exercise'
+  236  log
+  237  git log
+  238  git reset --soft HEAD^
+  239  git commit -m 'Up to No.4 of the practice'
+  240  git log
+  241  git reset --soft HEAD^
+  242  git commit -m 'Up to No.4 of the practice 1'
+  243  git log
+  244  git remote add origin�https://github.com/ChiharuYatsushiro/server_lesson.git
+  245  git remote -v
+  246  git remote -v
+  247  git push origin master
+  248  git remote add origin� https://github.com/ChiharuYatsushiro/server_lesson.git
+  249  git remote -v
+  250  git push origin master
+  251  cgit push origin master
+  252  git remot -v
+  253  git remote -v
+  254  git push origin master
+  255  git push origin? master
+  256  git remote -v
+  257  ggit remote add origin https://github.com/ChiharuYatsushiro/server_lesson.git
+  258  git remote add origin https://github.com/ChiharuYatsushiro/server_lesson.git
+  259  git remote v
+  260  git remote -v
+  261  git remote rm origin?
+  262  git remote -v
+  263  git remote rm origin?
+  264  git push origin master
+  265  git push origin master
+  266  git push origin master
+  267  git clone https://github.com/ChiharuYatsushiro/repo.git
+  268  git clone https://github.com/ChiharuYatsushiro/repo.git
+  269  git push origin master
+  270  docker start centos7
+  271  ls
+  272  cd README.md
+  273  vi README.md
+  274  cd
+  275  ls
+  276  cd server_lesson
+  277  ls
+  278  cd README.md
+  279  vi README.md
+  280  git commit -m 'Up to No.5 of the practice1'
+  281  git add .
+  282  git commit -m 'Up to No.5 of the practice1'
+  283  git log
+  284  git push origin master
+  285  vi README.md
+  286  git commit -m 'Amended No.5 of the practice 1'
+  287  git add .
+  288  git commit -m 'Amended No.5 of the practice 1'
+  289  git push origin master
+  290  cd /
+  291  ls
+  292  cd /home
+  293  ls
+  294  cd /
+  295  ls
+  296  cd /root
+  297  ls
+  298  cd server_lesson
+  299  mkdir linux_practice2
+  300  ls
+  301  cd linux_practice2
+  302  touch documents
+  303  ls
+  304  rm documents
+  305  midir documents
+  306  mkdir documents
+  307  ls
+  308  cd documents
+  309  touch gizumo.md
+  310  ls
+  311  for i in {1..50}; do cp gizumo.md hoge_$i.md; done
+  312  ls
+  313  rm  hoge{01..50}.md
+  314  rm  hoge_{01..50}.md
+  315  ls
+  316  rm hoge_{1..9}.md
+  317  ls
+  318  for i in {01..50}; do cp gizumo.md gizumo$i.md; done
+  319  ls
+  320  rm gizumo.md
+  321  ls
+  322  cd /
+  323  cd /root
+  324  ls
+  325  ls server_lesson
+  326  cd linux_practice2
+  327  cd linux_practice2
+  328  cd clinux_practice2
+  329  cd server_lesson
+  330  cd linux_practice2
+  331  ls
+  332  mkdir trash
+  333  ls
+  334  cd documents
+  335  ls
+  336  mv gizumo{20..40}.md trash/.
+  337  mv gizumo{20..40}.md trash
+  338  mv gizumo{20..40}.md  linux_practice/trash
+  339  mv gizumo{20..40}.md  trash/.
+  340  mv gizumo20.md trash
+  341  mv gizumo{21..40}.md trash
+  342  ls
+  343  cd /root
+  344  cd server_lesson
+  345  ls
+  346  cd linux_practice2
+  347  ls
+  348  cd trash
+  349  ls
+  350  ls
+  351  documents
+  352  cd /documents
+  353  pwd
+  354  cd /root/server_lesson/linux_practice2
+  355  ls
+  356  cd document
+  357  cd documents
+  358  ls
+  359  cd trash
+  360  rm trash
+  361  touch gizumo20.md
+  362  ls
+  363  mv /root/server_lesson/linux_practice2/documents/gizumo20.md /root/server_lesson/linux_practice2/trash/gizumo20.md
+  364  /root/server_lesson/linux_practice2
+  365  /root/server_lesson/linux_practice2
+  366  ls
+  367  cd trash
+  368  cd /trash
+  369  cd /linux_practice2
+  370  cd /
+  371  cd /root
+  372  cd /server_lesson
+  373  ls
+  374  cd server_lesson
+  375  cd server_lesson
+  376  cd linux_practice2
+  377  ls
+  378  cd trash
+  379  ls
+  380  cd /
+  381  cd server_lesson
+  382  cd /root
+  383  cd server_lesson
+  384  cd linux_practice2
+  385  cd documents
+  386  /s
+  387  ls
+  388  mv /root/server_lesson/linux_practice2/documents/gizumo{19..40}.md /root/server_lesson/linux_practice2/trash/gizumo{19..40}.md
+  389  ls
+  390  /root/server_lesson/linux_practice2/documents/gizumo{19..39}.md root/server_lesson/linux_practice2/trash/gizumo{19..39}.md 
+  391  ls
+  392  /root/server_lesson/linux_practice2/documents/gizumo{21..40}.md /root/server_lesson/linux_practice2/trash/gizumo{21..40}.md
+  393  /root/server_lesson/linux_practice2/documents/gizumo21.md /root/server_lesson/linux_practice2/trash/gizumo21.md
+  394  mv /root/server_lesson/linux_practice2/documents/gizumo21.md /root/server_lesson/linux_practice2/trash/gizumo21.md
+  395  mv /root/server_lesson/linux_practice2/documents/gizumo{22..40}.md /root/server_lesson/linux_practice2/trash/gizumo{22..40}.md
+  396  mv  /root/server_lesson/linux_practice2/documents/gizumo{22..39}.md /root/server_lesson/linux_practice2/trash/gizumo{22..39}.md
+  397  mv  /root/server_lesson/linux_practice2/documents/gizumo{22..30}.md /root/server_lesson/linux_practice2/trash/gizumo{22..30}.md
+  398  cd /root/server_lesson/linux_practice2/trash
+  399  ls
+  400  cd cd /root/server_lesson/linux_practice2/trash
+  401  cd root/server_lesson/linux_practice2/documents
+  402  cd root/server_lesson/linux_practice2/documents
+  403  root/server_lesson/linux_practice2
+  404  cd root/server_lesson/linux_practice2
+  405  cd /root/server_lesson/linux_practice2
+  406  ls
+  407  cd documents
+  408  ls
+  409  mv /root/server_lesson/linux_practice2/documents/gizumo{22..30}.md /root/server_lesson/linux_practice2/trash/gizumo{22..30}.md
+  410  mv  /root/server_lesson/linux_practice2/documents/gizumo
+  411  mv /root/server_lesson/linux_practice2/documents/gizumo{22..30}.md /root/server_lesson/linux_practice2/trash
+  412  ls
+  413  cd ../
+  414  ls
+  415  cd trash
+  416  ls
+  417  cd ../
+  418  cd documents
+  419  ls
+  420  mv /root/server_lesson/linux_practice2/documents/gizumo{31..40}.md  /root/server_lesson/linux_practice2/trash
+  421  cd ../
+  422  cd trash
+  423  ls
+  424  git add .
+  425  cd ../
+  426  mkdir .gitignore
+  427  ls
+  428  vi .gitignore
+  429  git add .
+  430  git commit -m 'Up to No.3 of the practice 2'
+  431  git log
+  432  exit
+  433  ls
+  434  cd /
+  435  cd ../
+  436  ls
+  437  cd /root
+  438  ls
+  439  cd ./
+  440  ls
+  441  cd ../
+  442  ls
+  443  cd /root
+  444  ls
+  445  cd server_lesson
+  446  cd ls
+  447  ls
+  448  cd ../
+  449  ls
+  450  cd .../
+  451  cd ../server_lesson
+  452  cd server_lesson
+  453  ls
+  454  cd linux_practice2
+  455  vi .gitignor
+  456  history 300
+  457  linux_practice2/trash/gizumo20.md ~ gizumo29.md
+  458  linux_practice2/trash/gizumo20.md
+  459  ls
+  460  cd trash
+  461  ls
+  462  cd ../
+  463  vi vi .gitignor
+  464  vi .gitignor
+  465  history 300
+  466  exec_command.log
+  467  git add .
+  468  git commit -m 'Up to No.4 of the plactice 2'
+  469  git stage
+  470  git log
+  471  git status
+  472  git status
+  473  git ls-files --other --ignored --exclude-standard
+  474  ls
+  475  git status --ignored
+  476  git add .
+  477  git status --ignored
+  478  git reset --soft HEAD^
+  479  ���git log
+  480  git log
+  481  git git status
+  482  git status
+  483  git add .
+  484  git status
+  485  cd ../k
+  486  git status --ignored
+  487  git add
+  488  git add .
+  489  git git status
+  490  git status
+  491  git status --ignored
+  492  git status --ignored
+  493  cd .gitignore
+  494  ls
+  495  git status --ignored
+  496  git add .
+  497  git status --ignored
+  498  git rm -r --cached .
+  499  history 300 �>> exec_command.log
+  500  history 300
+  501  history 300 > exec_command.log
+  502  cat exec_command.log
+  503  ls
+  504  rm exec_command.log
+  505  cd ../
+  506  history 300 > exec_command.log
